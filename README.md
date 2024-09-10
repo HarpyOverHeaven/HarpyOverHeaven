@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarpyOverHeaven
 - 👀 I’m interested in ...becoming a cyber analyst
 - 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...any beginner friendly projects as I'm still learning the ropes of coding
 - 📫 How to reach me ...marcyy.bug@gmail.com
 - 😄 Pronouns: ...she/her/hers
 - ⚡ Fun fact: ...I have extensive knowledge of Transformers
